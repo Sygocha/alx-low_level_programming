@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen - Function that returns the length of astring
+ * _strlen - Function that returns the length of a string
  *
  * @s: this is the input string
  *
@@ -11,8 +11,8 @@ int _strlen(char *s)
 {
 	int index;
 
-	for (index = O; s[index] != '\O ; index++)
+	for (index; = O; s[index] != '\O ; index++)
 
 	return (index);
 
-}	
+i}	
